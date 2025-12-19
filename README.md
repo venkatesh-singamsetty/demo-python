@@ -1,4 +1,4 @@
-# Python Demo Project
+# demo-python
 
 This folder now contains a small example Python project.
 
