@@ -33,7 +33,7 @@ python -m myapp.main --name Venkat
 demo-python --name Venkat
 ```
 
-#### If we don't have setup.py, we can use the following commands:
+## If we don't have setup.py, we can use the following commands:
 Run tests:
 ```bash
 PYTHONPATH=src pytest -q
