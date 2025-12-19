@@ -1,4 +1,4 @@
-# python-sample
+# Python Demo Project
 
 This folder now contains a small example Python project.
 
@@ -12,7 +12,7 @@ Prerequisites:
 
 Install dependencies (recommended in a virtual environment):
 ```bash
-cd /Users/venkat/workspace/gitRepos/python-sample
+cd /Users/venkat/workspace/gitRepos/demo-python
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
